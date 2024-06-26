@@ -16,8 +16,8 @@ from pyrogram.types import CallbackQuery, InlineKeyboardMarkup, InlineKeyboardBu
 
 buttons = InlineKeyboardMarkup(
          [[
-               InlineKeyboardButton("Join Channel", url="https://t.me/devggn"),
-	       InlineKeyboardButton("Contact Me", url="https://t.me/ggnhere"), 
+               InlineKeyboardButton("Join Channel", url="https://t.me/xTaR_Main"),
+	       InlineKeyboardButton("Contact Me", url="https://t.me/The_real_xTaR"), 
          ],[
                InlineKeyboardButton("Don't Click", callback_data="admin_"),    
          ],[
