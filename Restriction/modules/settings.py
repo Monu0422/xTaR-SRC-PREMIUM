@@ -217,6 +217,6 @@ async def settings(_, message):
     lol = await chk_user(message, message.from_user.id)
     if lol == 1:
         return
-    await message.reply_photo(photo="https://graph.org/file/914e6257251a02fde4203.jpg", caption=script.SETTINGS_TXT, reply_markup=buttons1)
+    await message.reply_photo(photo="https://graph.org/file/4548b76037e1ef84b71de.jpg", caption=script.SETTINGS_TXT, reply_markup=buttons1)
 
 	
